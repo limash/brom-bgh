@@ -33,6 +33,4 @@ add_dependencies(fabm_models_niva fabm_base)
 #-----------------------------------------------------------------------
 # Copyright (C) 2014 - Karsten Bolding and Jorn Bruggeman (BB)         !
 #-----------------------------------------------------------------------
-trololo
-dd
 
